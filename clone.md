@@ -57,4 +57,19 @@ ssh-keygen -t ed25519
 git clone `ssh-код вашего репозитория`
 ```
 
-[Содержание](./readme.md)
+<table width="100%">
+<td>
+
+[<Создание локального репозитория – git init](./init.md)
+
+</td>
+<td>
+
+<div style="text-align:right">
+
+[Индексация изменений – git add>](./add.md)
+
+</div>
+
+</td>
+</table>

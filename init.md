@@ -25,8 +25,25 @@
 
 ```
 git remote add origin `ssh-код вашего репозитория`
+git push -u origin main
 ```
+*Вместо **main** может быть **master**. В зависимости от того, как называется главная ветка на вашем удаленном репозитории*
 
 После этого вам будет доступно использование команд [`git push`](./push.md) и [`git pull`](./pull.md), чтобы производить обмен данными между репозиториями.
 
-[Содержание](./readme.md)
+<table width="100%">
+<td>
+
+[<Установка Git для Windows](./install_git.md)
+
+</td>
+<td>
+
+<div style="text-align:right">
+
+[Клонирование удаленного репозитория – git clone>](./clone.md)
+
+</div>
+
+</td>
+</table>
