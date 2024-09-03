@@ -39,15 +39,4 @@ Win + R
 
 ![Инструменты Git](./assets/Git_tools.png)
 
-<table width="100%">
-<td width="50%">
-
-[<Главная страница](./readme.md)
-
-</td>
-<td style="text-align:right">
-
 [Создание локального репозитория – git init>](./init.md)
-
-</td>
-</table>

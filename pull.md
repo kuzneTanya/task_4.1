@@ -18,15 +18,4 @@ git pull
 
 ![git log after pull](./assets/log_2.PNG)
 
-<table width="100%">
-<td width="50%">
-
-[Отправка изменений на удаленный репозиторий – git push](./push.md)
-
-</td>
-<td style="text-align:right">
-
 [Создание веток – git branch>](./branch.md)
-
-</td>
-</table>

@@ -57,15 +57,4 @@ git switch -
 
 
 
-<table width="100%">
-<td width="50%">
-
-[<Создание веток – git branch](./branch.md)
-
-</td>
-<td style="text-align:right">
-
 [Скачивание изменений на локальный репозиторий – git fetch>](./fetch.md)
-
-</td>
-</table>

@@ -20,15 +20,4 @@ git fetch origin master
 
 ![fetch diff](./assets/fetch_diff.PNG)
 
-<table width="100%">
-<td width="50%">
-
-[<Перемещение между ветками и коммитами – git checkout](./checkout.md)
-
-</td>
-<td style="text-align:right">
-
 [Слияние веток – git merge>](./merge.md)
-
-</td>
-</table>

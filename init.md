@@ -31,15 +31,4 @@ git push -u origin main
 
 После этого вам будет доступно использование команд [`git push`](./push.md) и [`git pull`](./pull.md), чтобы производить обмен данными между репозиториями.
 
-<table width="100%">
-<td width="50%">
-
-[<Установка Git для Windows](./install_git.md)
-
-</td>
-<td style="text-align:right">
-
 [Клонирование удаленного репозитория – git clone>](./clone.md)
-
-</td>
-</table>

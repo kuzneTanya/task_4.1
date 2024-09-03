@@ -32,15 +32,4 @@ git commit
 Например, "update readme.md", "add calc function", "fix bug in func.php" и т.д. Это нужно, чтобы можно было легко ориентироваться по дереву коммитов и иметь возможность исправить изменения, которые понесли за собой ещё больше ошибок.
 
 
-<table width="100%">
-<td width="50%">
-
-[<Индексация изменений – git add](./add.md)
-
-</td>
-<td style="text-align:right">
-
 [Журнал коммитов – git log>](./log.md)
-
-</td>
-</table>
