@@ -2,7 +2,7 @@
 ##
 
 <table width="100%">
-<td>
+<td width="50%">
 
 [<Слияние веток – git merge](./merge.md)
 

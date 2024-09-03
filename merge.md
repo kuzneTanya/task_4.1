@@ -2,7 +2,7 @@
 ##
 
 <table width="100%">
-<td>
+<td width="50%">
 
 [<git fetch](./fetch.md)
 

@@ -33,7 +33,7 @@ git commit
 
 
 <table width="100%">
-<td>
+<td width="50%">
 
 [<Индексация изменений – git add](./add.md)
 

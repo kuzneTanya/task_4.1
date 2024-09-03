@@ -2,7 +2,7 @@
 ##
 
 <table width="100%">
-<td>
+<td width="50%">
 
 [<Перемещение между ветками и коммитами – git checkout](./checkout.md)
 

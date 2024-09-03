@@ -19,9 +19,9 @@ git pull
 ![git log after pull](./assets/log_2.PNG)
 
 <table width="100%">
-<td>
+<td width="50%">
 
-[<Статус репозитория – git status](./status.md)
+[Отправка изменений на удаленный репозиторий – git push](./push.md)
 
 </td>
 <td>

@@ -13,9 +13,9 @@ git push
 Запустив [`git status`](./status.md) после использования `git push` мы можем увидеть, что наша локальная ветка теперь синхронизирована с удаленной веткой <span style="color:#A52A2A">**origin/master**</span>.
 
 <table width="100%">
-<td>
+<td width="50%">
 
-[<Отправка изменений на удаленный репозиторий – git push](./push.md)
+[Статус репозитория – git status](./status.md)
 
 </td>
 <td>

@@ -58,7 +58,7 @@ git clone `ssh-код вашего репозитория`
 ```
 
 <table width="100%">
-<td>
+<td width="50%">
 
 [<Создание локального репозитория – git init](./init.md)
 
