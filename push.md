@@ -18,13 +18,9 @@ git push
 [Статус репозитория – git status](./status.md)
 
 </td>
-<td>
-
-<div style="text-align:right">
+<td style="text-align:right">
 
 [Скачивание изменений на локальный репозиторий – git pull>](./pull.md)
-
-</div>
 
 </td>
 </table>

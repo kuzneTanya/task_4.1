@@ -24,13 +24,9 @@ git pull
 [Отправка изменений на удаленный репозиторий – git push](./push.md)
 
 </td>
-<td>
-
-<div style="text-align:right">
+<td style="text-align:right">
 
 [Создание веток – git branch>](./branch.md)
-
-</div>
 
 </td>
 </table>

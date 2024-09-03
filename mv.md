@@ -1,4 +1,4 @@
 
 ##
 
-[<git rebase](./rebase.md)
+[<Перебазирование коммитов и веток – git rebase](./rebase.md)

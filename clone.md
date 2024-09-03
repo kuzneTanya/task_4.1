@@ -63,13 +63,9 @@ git clone `ssh-код вашего репозитория`
 [<Создание локального репозитория – git init](./init.md)
 
 </td>
-<td>
-
-<div style="text-align:right">
+<td style="text-align:right">
 
 [Индексация изменений – git add>](./add.md)
-
-</div>
 
 </td>
 </table>

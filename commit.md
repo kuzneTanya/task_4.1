@@ -38,13 +38,9 @@ git commit
 [<Индексация изменений – git add](./add.md)
 
 </td>
-<td>
-
-<div style="text-align:right">
+<td style="text-align:right">
 
 [Журнал коммитов – git log>](./log.md)
-
-</div>
 
 </td>
 </table>

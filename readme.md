@@ -18,9 +18,9 @@ LICENSE: [MIT](./license.md)
 9. [Скачивание изменений на локальный репозиторий – git pull](./pull.md)
 10. [Создание веток – git branch](./branch.md)
 11. [Перемещение между ветками и коммитами – git checkout](./checkout.md)
-12. [git fetch](./fetch.md)
+12. [Скачивание изменений на локальный репозиторий – git fetch](./fetch.md)
 13. [Слияние веток – git merge](./merge.md)
-14. [git rebase](./rebase.md)
+14. [Перебазирование коммитов и веток – git rebase](./rebase.md)
 15. [Перемещение или переименование фалов и директорий – git mv](./mv.md)
 
 

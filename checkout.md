@@ -47,19 +47,25 @@ git checkout -b issue24
 git checkout 3d109dafacaf09ed412202b965be94c38af01ae7
 ```
 
+![checkout commit](./assets/checkout_detached_HEAD.PNG)
+
+Переключение произошло, мы оказались в том коммите, который был нужен. И Git любезно предлагает нам осмотреть всё, поэкспериментировать как мы хотим, так как все изменения можно будет отменить одной простой командой, которая и вернет нас в привычное положение.
+
+```
+git switch -
+```
+
+
+
 <table width="100%">
 <td width="50%">
 
 [<Создание веток – git branch](./branch.md)
 
 </td>
-<td>
+<td style="text-align:right">
 
-<div style="text-align:right">
-
-[git fetch>](./fetch.md)
-
-</div>
+[Скачивание изменений на локальный репозиторий – git fetch>](./fetch.md)
 
 </td>
 </table>

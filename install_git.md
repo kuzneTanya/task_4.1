@@ -45,13 +45,9 @@ Win + R
 [<Главная страница](./readme.md)
 
 </td>
-<td>
-
-<div style="text-align:right">
+<td style="text-align:right">
 
 [Создание локального репозитория – git init>](./init.md)
-
-</div>
 
 </td>
 </table>

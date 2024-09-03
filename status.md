@@ -39,13 +39,9 @@
 [<Журнал коммитов – git log](./log.md)
 
 </td>
-<td>
-
-<div style="text-align:right">
+<td style="text-align:right">
 
 [Отправка изменений на удаленный репозиторий – git push>](./push.md)
-
-</div>
 
 </td>
 </table>

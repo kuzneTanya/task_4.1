@@ -37,13 +37,9 @@ git push -u origin main
 [<Установка Git для Windows](./install_git.md)
 
 </td>
-<td>
-
-<div style="text-align:right">
+<td style="text-align:right">
 
 [Клонирование удаленного репозитория – git clone>](./clone.md)
-
-</div>
 
 </td>
 </table>

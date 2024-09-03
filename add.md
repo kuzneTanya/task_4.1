@@ -35,13 +35,9 @@ git add all
 [<Клонирование удаленного репозитория – git clone](./clone.md)
 
 </td>
-<td>
-
-<div style="text-align:right">
+<td style="text-align:right">
 
 [Фиксация изменений – git commit>](./commit.md)
-
-</div>
 
 </td>
 </table>
